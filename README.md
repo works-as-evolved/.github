@@ -1,4 +1,4 @@
-# works-as-evolving
+# works-as-evolved
 
 This avatar was created by Copilot.
 
