@@ -2,4 +2,4 @@
 
 The avatar was created by Copilot.
 
-![avatar](assets/avatar.svg)
+![avatar](../assets/avatar.svg)
