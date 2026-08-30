@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="220"
+          fill="none"
+          stroke="#1f2937"
+          stroke-width="20"/>
+
+  <path d="
+    M256 120
+    C340 120 392 184 392 248
+    C392 336 324 384 252 384
+    C188 384 140 336 140 276
+    C140 224 176 184 228 184
+    C276 184 312 216 312 260
+    C312 296 284 324 248 324
+    C220 324 200 304 200 280
+    C200 260 216 244 236 244
+    C252 244 264 256 264 272
+  "
+  fill="none"
+  stroke="#3b82f6"
+  stroke-width="28"
+  stroke-linecap="round"
+  stroke-linejoin="round"/>
+
+  <circle cx="264" cy="272" r="14" fill="#3b82f6"/>
+</svg>
